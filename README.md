@@ -4,6 +4,9 @@ This repo contains the G-Man zip files you can install into Kodi using the Kodi 
 
 Contains:
 
+- **Top-G Repository** Movie and TV show add-ons and more from my personal favs - 
+Alt URL: https://mrgsi.github.io/topg
+
 - **G-Source Repository** with the Repo Source Intaller add-on - 
 Alt URL: https://mrgsi.github.io/gsource
 
