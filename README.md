@@ -24,3 +24,6 @@ Alt URL: https://mrgsi.github.io/gtube
 
 - **Dirty-G Repository** Adult XXX add-ons - 
 Alt URL: https://mrgsi.github.io/dirtyg
+
+NEW! - All Anime Repository - The best Anime Add-ons for Kodi 19 -
+Alt URL: https://mrgsi.github.io/allanime
