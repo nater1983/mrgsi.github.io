@@ -27,3 +27,6 @@ Alt URL: https://mrgsi.github.io/dirtyg
 
 - **All Anime Repository** The best Anime Add-ons for Kodi 19 -
 Alt URL: https://mrgsi.github.io/allanime
+
+- **WNT2 Repository** A small repo for WatchNixtoons2 just to make updates in other repos easier for me -
+Alt URL: https://mrgsi.github.io/wnt2
