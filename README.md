@@ -2,7 +2,7 @@
  
 This repo contains the G-Man zip files you can install into Kodi using the Kodi File Manager by entering the URL: https://mrgsi.github.io/
 
-Contains:
+Contains Kodi 19/20 Add-ons:
 
 - **Top-G Repository** Movie and TV show add-ons and more from my personal favs - 
 Alt URL: https://mrgsi.github.io/topg
@@ -25,10 +25,10 @@ Alt URL: https://mrgsi.github.io/gtube
 - **Dirty-G Repository** Adult XXX add-ons - 
 Alt URL: https://mrgsi.github.io/dirtyg
 
-- **Free-G Repository** No Debrid Required Add-ons for Kodi 19 -
+- **Free-G Repository** No Debrid Required Add-ons -
 Alt URL: https://mrgsi.github.io/freeg
 
-- **All Anime Repository** The best Anime Add-ons for Kodi 19 -
+- **All Anime Repository** The best Anime Add-ons -
 Alt URL: https://mrgsi.github.io/allanime
 
 - **WNT2 Repository** A small repo for WatchNixtoons2 just to make updates in other repos easier for me -
