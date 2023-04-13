@@ -1,0 +1,20 @@
+{
+	"builds": [
+		{
+			"name": "Sample Build 1 Name",
+			"version": "1.0",
+			"url": "https://",
+			"icon": "https://",
+			"fanart": "https://",
+			"description": "Your first build listed here."
+		},
+		{
+			"name": "Sample Build 2 Name",
+			"version": "1.0",
+			"url": "https://",
+			"icon": "https://",
+			"fanart": "https://",
+			"description": "Your second build listed here if you have one."
+		}
+	]
+}
