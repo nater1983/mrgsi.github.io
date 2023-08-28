@@ -20,6 +20,8 @@ Individual Repositories:
 
 - **All Anime Repository** The Best Anime Add-ons: https://mrgsi.github.io/allanime
 
+- **Cartoon King Repository** A collection of Cartoon Add-ons: https://mrgsi.github.io/cartoonking
+
 - **WNT2 Repository** Exclusively for the WatchNixtoons2 Add-on: https://mrgsi.github.io/wnt2
 
 - **Dirty-G Repository** Adult XXX Add-ons: https://mrgsi.github.io/dirtyg
