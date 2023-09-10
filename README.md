@@ -24,4 +24,6 @@ Individual Repositories:
 
 - **WNT2 Repository** Exclusively for the WatchNixtoons2 Add-on: https://mrgsi.github.io/wnt2
 
+- **Jigsaw Repository** Retro Gaming Add-ons: https://mrgsi.github.io/jigsaw
+
 - **Dirty-G Repository** Adult XXX Add-ons: https://mrgsi.github.io/dirtyg
